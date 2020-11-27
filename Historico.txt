@@ -1,0 +1,18 @@
+Fernando: 
+  -Ha creado el repositorio en GitHub.
+  -Ha añadido a todos los participantes del grupo al repositorio.
+  -Ha subido la carpeta (app/templates) y los de Fron-end (web/css + web/js + web/images)
+  -Ha creado el fichero valoraciones.txt
+  
+Javier Montoto:
+  -Ha subido el fichero (app/model.php).
+  -Ha creado la base de datos alimentos32020.
+  -Ha realizado el despliegue de la aplicacion mediante comandos ssh y git.
+  -Ha creado el fichero instalacion.txt
+  
+Jose Ramon: 
+  -Ha subido los ficheros (web/index.php + app/Controller.php + app/Config.php)
+  -Modifico el archivo config.php con los datos proporcionados por el integrante 2 (Javier Montoto).
+  -Ha creado el fichero Historico.txt
+  
+  Url: http://www.montoto.com.mialias.net/ali2020/web/index.php
