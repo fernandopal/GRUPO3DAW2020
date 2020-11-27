@@ -22,11 +22,6 @@ y dentro iniciamos una vez mas git con $git init,
 $git -c http.sslVerify=false pull conexion master,este comando tuve que incluirle codigo ¿para que no verificara el hhtps? por recomendacion del profesor
  posteriormente introducimos $git remote -v,
  a continuación $git -c http.sslVerify=false clone https://github.com/fernandopal/GRUPO3DAW2020
- Entiendo que la URL del hoting te refieres a la página donde se hospeda la visualizacion de por ejemplo el archivo index
- http://www.montoto.com.mialias.net/ali2020/web/index.php?ctl=inicio
- DATOS DE ACCESO
- Usuario: montot152
-Contraseña: wMY13XIR
  
 
 
