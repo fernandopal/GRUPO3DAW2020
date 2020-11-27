@@ -1,3 +1,3 @@
 Integrante 1: El uso de github ha sido interesante y la practica no ha sido complicada ya que disponiamos de recursos tanto de clase como externos y cualquier duda podia resolverse rapidamente con investigar un poco sobre ello
-Integrante 2: Me ha gustado porque he aprendido sobre el uso de github 
-Integrante 3: La practica me ha parecido un buen acercamiento al sistema GIT/GITHUB porque yo pensaba que en el mundo de las empresas y de las aplicaciones web este proceso estaba dinamizado o almenos habia un especialista controlando tanto el despliegue como el mantenimiento de por ejemplo, el control de versiones de la supuesta aplicacion desplegada.
+Integrante 2: La practica me ha parecido un buen acercamiento al sistema GIT/GITHUB porque yo pensaba que en el mundo de las empresas y de las aplicaciones web este proceso estaba dinamizado o almenos habia un especialista controlando tanto el despliegue como el mantenimiento de por ejemplo, el control de versiones de la supuesta aplicacion desplegada.
+Integrante 3: Me ha gustado porque he aprendido sobre el uso de github 
