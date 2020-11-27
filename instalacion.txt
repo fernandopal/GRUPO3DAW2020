@@ -1,0 +1,33 @@
+1.1 Obviando el proceso de instalacion de git,lo siguiente que hice por recomendacion de un compañero fue el proceso de subida de mi archivo
+Después de crear la carpeta GRUPO3DAW2020.
+Dentro de esa carpeta hice un copy paste de la carpeta web y la carpeta app que estan dentro de alimentos2020 en el zip que mando el profesor
+Abrí la consola en ese lugar en específico e introduje los siguientes comandos.
+git init
+git add app/model.php
+git checkout -b 'javi'
+git commit -m 'Subidos los archivos del integrante 2'
+git remote add origin https://github.com/fernandopal/GRUPO3DAW2020.git
+git push -u origin javi
+
+1.2 Despues de subirlo hay que crear la base de datos, yo no la hice personalmente como en los videos copiando y pegando el texto mysql,
+sino que me fui a la opcion de crearla la tabla manualmente dandole a importar,creo que el resultado es similar.
+
+1.3 A partir de aquí se explica el proceso de despliegue en el hosting
+Inicio git en la carpeta específica mencionada previamente y nos conectamos al hostin cdmon
+Hay que tener en cuanto (en mi caso me dio fallos por no tenerlo en cuenta precisamente) que hay que tener la opcion de git activada,
+como por supuesto la de ssh.
+Dentro de la consola en mi caso el comando a introducir seria shh montoto@montoto.com.mialias.net,introduzco contraseña
+$cd web y ahí dentro creamos una carpeta $mkdirali2020 accedemos a ella con un cd
+y dentro iniciamos una vez mas git con $git init,
+$git -c http.sslVerify=false pull conexion master,este comando tuve que incluirle codigo ¿para que no verificara el hhtps? por recomendacion del profesor
+ posteriormente introducimos $git remote -v,
+ a continuación $git -c http.sslVerify=false clone https://github.com/fernandopal/GRUPO3DAW2020
+ Entiendo que la URL del hoting te refieres a la página donde se hospeda la visualizacion de por ejemplo el archivo index
+ http://www.montoto.com.mialias.net/ali2020/web/index.php?ctl=inicio
+ DATOS DE ACCESO
+ Usuario: montot152
+Contraseña: wMY13XIR
+ 
+
+
+
